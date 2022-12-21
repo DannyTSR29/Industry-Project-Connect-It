@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 1ca6fdcca6bb2e9419491bc90cd0bc9d
+  - enabled: 1
+    path: Assets/Scenes/Danny/Tut Cable Cutting.unity
+    guid: 9c1d2f85eca7d4540bb6a5973361cb4b
+  - enabled: 1
+    path: Assets/Scenes/Danny/Cable Cutting.unity
+    guid: c71672a173a175343ac4c232d380f74e
+  - enabled: 1
+    path: Assets/Scenes/Danny/Tut Strip Outer.unity
+    guid: a311071d3e6c0df46a6cd1508f952f24
+  - enabled: 1
+    path: Assets/Scenes/Danny/Strip Outer.unity
+    guid: 5930d8726334cf44998f72e247b28d00
+  - enabled: 1
+    path: Assets/Scenes/Danny/Tut Crimp Terminal.unity
+    guid: e5d939666179a414695e443ccd4950ad
+  - enabled: 1
+    path: Assets/Scenes/Danny/Crimp Terminal.unity
+    guid: ee8abfd98ac965f4a8d4688f91384624
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 67a6bb00394732745abe6027df543278
+  m_configObjects: {}
